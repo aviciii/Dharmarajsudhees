@@ -1,0 +1,76 @@
+@charset "UTF-8";
+/* CSS Document */
+
+article, aside, details, figcaption, figure, footer, header, hgroup, nav, section { display: block; }
+
+* {
+    box-sizing: border-box;
+}
+
+body {
+	margin-top:0px 0px 50px 0px; 
+	background-color:black;
+	background-size: cover;
+    background-repeat: no-repeat;
+	background-position: bottom center;
+	
+}
+nav a{
+	text-decoration: none;
+	color:#efede0;
+	margin:0px 50px 0px 20px; 
+	
+}
+nav a:hover{
+	color:#BF2E33;
+}
+
+nav{
+	width:670px;
+	height:55px;
+	line-height: 61px;
+	background-color:rgba(65, 62, 62, 0.664);
+	float: right;
+	text-align: center;
+	font-size: 20px;
+	font-family: "Gill Sans", "Gill Sans MT", "Myriad Pro", "DejaVu Sans Condensed", Helvetica, Arial, "sans-serif";
+	text-transform: uppercase;
+	margin-top: 40px;
+}
+
+h2{
+    font-size: 21px;font-family: Impact, Haettenschweiler, "Franklin Gothic Bold", "Arial Black", "sans-serif";
+      color:white;
+      letter-spacing: 1px;
+      
+  }
+  p{
+	
+	color:cornsilk; 
+   
+
+	text-shadow: 0px 0px 3px black;
+
+	
+}
+
+
+
+
+
+
+
+footer {
+	width: 980px;
+	height: 64px;
+	margin-top: 30px;
+	background-color: rgba(156, 20, 20, 0.75);
+	line-height: 64px;
+	text-align: center;
+	font-size: 14px;
+	font-family: Arial, Helvetica, sans-serif;
+	color: #F7E9C6;
+	margin-top: 30px;
+}
+
+ 
